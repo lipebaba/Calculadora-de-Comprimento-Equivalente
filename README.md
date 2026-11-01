@@ -25,9 +25,11 @@ O projeto une teoria e prática, utilizando a programação como apoio à compre
 
 Aplicar os conhecimentos adquiridos na disciplina de **Fenômenos de Transporte**, desenvolvendo uma ferramenta que auxilie nos cálculos e no entendimento do comprimento equivalente em tubulações hidráulicas.
 
-## 🌐 Site hospedado
+## 🌐 Site publicado
 
-O site está hospedado e disponível para utilização online, permitindo acessar a calculadora diretamente pelo navegador.
+O site está hospedado no **GitHub Pages** e pode ser acessado diretamente pelo navegador:
+
+👉 [Acessar a Calculadora de Comprimento Equivalente](https://lipebaba.github.io/Calculadora-de-Comprimento-Equivalente/)
 
 ## 📂 Repositório
 
